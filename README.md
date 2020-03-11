@@ -23,5 +23,6 @@
 |  选择排序  |  🌟  |  [SelectionSort](https://github.com/ChengwenY/LeetCode/blob/master/Sources/Sort/SelectionSort.cpp)  |
 |  冒泡排序  |  🌟  |  [BubbleSort](https://github.com/ChengwenY/LeetCode/blob/master/Sources/Sort/BubbleSort.cpp)  |
 |  快速排序  |  🌟🌟🌟  |  [QuickSort](https://github.com/ChengwenY/LeetCode/blob/master/Sources/Sort/QuickSort.cpp)  |
+|  快速排序  |  🌟🌟🌟  |  [QuickSort](https://github.com/ChengwenY/LeetCode/blob/master/Sources/Sort/MergeSort.cpp)  |
 
 
