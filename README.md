@@ -25,5 +25,6 @@
 |  快速排序  |  🌟🌟🌟  |  [QuickSort](https://github.com/ChengwenY/LeetCode/blob/master/Sources/Sort/QuickSort.cpp)  |
 |  归并排序  |  🌟🌟🌟  |  [MergeSort](https://github.com/ChengwenY/LeetCode/blob/master/Sources/Sort/MergeSort.cpp)  |
 |  堆排序  |  🌟🌟🌟  |  [HeapSort](https://github.com/ChengwenY/LeetCode/blob/master/Sources/Sort/HeapSort.cpp)  |
+|  [493. 翻转对](https://leetcode-cn.com/problems/reverse-pairs/)  |  🌟🌟🌟  |  [ReversePairs](https://github.com/ChengwenY/LeetCode/blob/master/Sources/Sort/ReversePairs.cpp)  |
 
 
