@@ -30,4 +30,5 @@
 | 题目 | 难度 | 题解 | 
 |----|----|----|
 |  [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)  |  🌟🌟|  [myPow](https://github.com/ChengwenY/LeetCode/blob/master/Sources/Divide/myPow.cpp)  |
+|  [169. 多数元素](https://leetcode-cn.com/problems/majority-element/) |  🌟|  [majorityElement](https://github.com/ChengwenY/LeetCode/blob/master/Sources/Divide/majorityElement.cpp)  |
 
