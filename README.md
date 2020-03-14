@@ -32,3 +32,9 @@
 |  [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)  |  🌟🌟|  [myPow](https://github.com/ChengwenY/LeetCode/blob/master/Sources/Divide/myPow.cpp)  |
 |  [169. 多数元素](https://leetcode-cn.com/problems/majority-element/) |  🌟|  [majorityElement](https://github.com/ChengwenY/LeetCode/blob/master/Sources/Divide/majorityElement.cpp)  |
 
+#### 动态规划
+| 题目 | 难度 | 题解 | 
+|----|----|----|
+|  [300. 最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)  |  🌟🌟|  [myPow](https://github.com/ChengwenY/LeetCode/blob/master/Sources/DynamicProgram/lengthOfLIS.cpp)  |
+
+
