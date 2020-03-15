@@ -38,3 +38,7 @@
 |  [300. 最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)  |  🌟🌟|  [myPow](https://github.com/ChengwenY/LeetCode/blob/master/Sources/DynamicProgram/lengthOfLIS.cpp)  |
 
 
+#### DFS & BFS
+| 题目 | 难度 | 题解 | 
+|----|----|----|
+|  [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)  |  🌟🌟|  [maxAreaOfIsland](https://github.com/ChengwenY/LeetCode/blob/master/Sources/DFS&BFS/maxAreaOfIsland.cpp)  |
