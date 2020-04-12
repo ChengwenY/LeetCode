@@ -35,7 +35,7 @@
 #### 动态规划
 | 题目 | 难度 | 题解 | 
 |----|----|----|
-|  [300. 最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)  |  🌟🌟|  [myPow](https://github.com/ChengwenY/LeetCode/blob/master/Sources/DynamicProgram/lengthOfLIS.cpp)  |
+|  [300. 最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)  |  🌟🌟|  [lengthOfLIS](https://github.com/ChengwenY/LeetCode/blob/master/Sources/DynamicProgram/lengthOfLIS.cpp)  |
 
 
 #### 树&二叉树
@@ -53,3 +53,4 @@
 |  [面试题13. 机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/)  |  🌟🌟|  [movingCount](https://github.com/ChengwenY/LeetCode/blob/master/Sources/Interview/movingCount.cpp)  |
 |  [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)  |  🌟🌟|  [generateParenthesis](https://github.com/ChengwenY/LeetCode/blob/master/Sources/Interview/generateParenthesis.cpp)  |
 |  [151. 翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/)  |  🌟🌟|  [reverseWords](https://github.com/ChengwenY/LeetCode/blob/master/Sources/Interview/reverseWords.cpp)  |
+|  [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)  |  🌟|  [maxProfit](https://github.com/ChengwenY/LeetCode/blob/master/Sources/Interview/maxProfit.cpp)  |
