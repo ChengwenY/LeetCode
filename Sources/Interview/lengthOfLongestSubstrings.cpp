@@ -41,4 +41,20 @@ public:
     }
 };
 
-// 优化
+// 优化 O（n）
+class Solution {
+public:
+    int lengthOfLongestSubstring(string s) {
+        if (s.size() == 0) return 0;
+        unordered_map<char,int> map;
+        int maxL = 0, start = 0;
+        for (int i = 0; i < s.size(); i++) {
+            while (map.find(s[i]) != map.end()) {
+                map.erase(s[start++]); //从start开始移除[start,i) 窗口数据
+            }
+            map[s[i]] = i;
+            maxL = max(maxL, i-start+1);
+        }
+        return maxL;
+    }
+};
