@@ -54,3 +54,4 @@
 |  [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)  |  🌟🌟|  [generateParenthesis](https://github.com/ChengwenY/LeetCode/blob/master/Sources/Interview/generateParenthesis.cpp)  |
 |  [151. 翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/)  |  🌟🌟|  [reverseWords](https://github.com/ChengwenY/LeetCode/blob/master/Sources/Interview/reverseWords.cpp)  |
 |  [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)  |  🌟|  [maxProfit](https://github.com/ChengwenY/LeetCode/blob/master/Sources/Interview/maxProfit.cpp)  |
+|  [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)  |  🌟|  [lengthOfLongestSubstring](https://github.com/ChengwenY/LeetCode/blob/master/Sources/Interview/lengthOfLongestSubstring.cpp)  |
