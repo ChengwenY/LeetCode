@@ -30,6 +30,7 @@
 | 题目 | 难度 | 题解 | 
 |----|----|----|
 |  [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)  |  🌟  |  [reverseList](https://github.com/ChengwenY/LeetCode/blob/master/Sources/LinkList/reverseList.cpp)  |
+|  [148. 排序链表](https://leetcode-cn.com/problems/sort-list/)  |  🌟🌟  |  [sortList](https://github.com/ChengwenY/LeetCode/blob/master/Sources/LinkList/sortList.cpp)  |
 
 #### 分治回溯
 | 题目 | 难度 | 题解 | 
