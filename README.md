@@ -6,7 +6,7 @@
 
 ### 思维脑图
 
-[思维脑图pdf](https://github.com/ChengwenY/LeetCode/blob/master/Images/思维脑图.pdf)
+[思维脑图pdf](https://github.com/ChengwenY/LeetCode/blob/master/Images/%E7%AE%97%E6%B3%95%E8%84%91%E5%9B%BE.pdf)
 
 ### 理论基础
 | 数组 | 链表 | 栈 | 队列 | 哈希表 | 树 |
