@@ -5,7 +5,7 @@
 认真加强巩固数据结构与算法，记录LeetCode 题解。
 
 ### 思维脑图
-
+![img](https://cwyblog.oss-cn-beijing.aliyuncs.com/blog-img/2020/04/19/preview.jpg?x-oss-process=image/auto-orient,1/quality,q_90)
 
 ### 理论基础
 | 数组 | 链表 | 栈 | 队列 | 哈希表 | 树 |
