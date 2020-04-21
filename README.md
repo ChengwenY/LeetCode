@@ -36,6 +36,7 @@
 |  [148. 排序链表](https://leetcode-cn.com/problems/sort-list/)  |  🌟🌟  |  [sortList](https://github.com/ChengwenY/LeetCode/blob/master/Sources/LinkList/sortList.cpp)  |
 |  [19. 删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)  |  🌟🌟  |  [removeNthFromEnd](https://github.com/ChengwenY/LeetCode/blob/master/Sources/LinkList/removeNthFromEnd.cpp)  |
 |  [23. 合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)  |  🌟🌟🌟  |  [mergeKLists](https://github.com/ChengwenY/LeetCode/blob/master/Sources/LinkList/mergeKLists.cpp)  |
+|  [234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)  |  🌟  |  [isPalindrome](https://github.com/ChengwenY/LeetCode/blob/master/Sources/LinkList/isPalindrome.cpp)  |
 
 #### 分治回溯
 | 题目 | 难度 | 题解 | 
@@ -53,6 +54,7 @@
 | 题目 | 难度 | 题解 | 
 |----|----|----|
 |  [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)  |  🌟🌟|  [maxAreaOfIsland](https://github.com/ChengwenY/LeetCode/blob/master/Sources/Tree/maxAreaOfIsland.cpp)  |
+|  [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)  |  🌟🌟|  [numIslands](https://github.com/ChengwenY/LeetCode/blob/master/Sources/Tree/numIslands.cpp)  |
 |  [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)  |  🌟🌟|  [inorderTraversal](https://github.com/ChengwenY/LeetCode/blob/master/Sources/Tree/inorderTraversal.cpp)  |
 |  [面试题68 - II. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/)  |  🌟🌟|  [lowestCommonAncestor](https://github.com/ChengwenY/LeetCode/blob/master/Sources/Tree/lowestCommonAncestor.cpp)  |
 |  [103. 二叉树的锯齿形层次遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)  |  🌟🌟|  [zigzagLevelOrder](https://github.com/ChengwenY/LeetCode/blob/master/Sources/Tree/zigzagLevelOrder.cpp)  |
