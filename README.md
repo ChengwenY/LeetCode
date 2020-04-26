@@ -61,6 +61,7 @@
 |  [面试题68 - II. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/)  |  🌟🌟|  [lowestCommonAncestor](https://github.com/ChengwenY/LeetCode/blob/master/Sources/Tree/lowestCommonAncestor.cpp)  |
 |  [103. 二叉树的锯齿形层次遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)  |  🌟🌟|  [zigzagLevelOrder](https://github.com/ChengwenY/LeetCode/blob/master/Sources/Tree/zigzagLevelOrder.cpp)  |
 |  [面试题07. 重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/)  |  🌟🌟|  [buildTree](https://github.com/ChengwenY/LeetCode/blob/master/Sources/Tree/buildTree.cpp)  |
+|  [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)  |  🌟🌟|  [isValidBST](https://github.com/ChengwenY/LeetCode/blob/master/Sources/Tree/isValidBST.cpp)  |
 
 #### 常见面试题
 | 题目 | 难度 | 题解 | 
