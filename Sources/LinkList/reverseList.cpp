@@ -1,3 +1,9 @@
+struct ListNode {
+    ListNode *next;
+    int val;
+    ListNode(int x) : val(x), next(NULL) {};
+}
+
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
